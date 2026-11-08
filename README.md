@@ -2,7 +2,7 @@
 
 My writeups for [SpookyCTF 2026](https://ctftime.org/ctf/987), a beginner-friendly jeopardy CTF run by NJIT's Cyber Security Network over the Halloween weekend.
 
-This was my first CTF at any real scale. I played as a two-person team with Aniruddha (team `404BrainNotFound`) and finished with 21 flags across 6 categories (2779 points, 156th place).
+This was my first CTF at any real scale. I played as a two-person team with Aniruddha (team `404BrainNotFound`) and finished with 21 flags across all 6 categories, placing in the top 20% (156th of 780 teams, 2779 points).
 
 Below is every challenge I solved. Writeups are in the category folders, going up as I work through them.
 
