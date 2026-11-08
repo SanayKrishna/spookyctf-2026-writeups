@@ -4,46 +4,46 @@ My writeups for [SpookyCTF 2026](https://ctftime.org/ctf/987), a beginner-friend
 
 This was my first CTF. I went in as a two-person team but ended up playing solo for the weekend, and finished with 21 flags across 6 categories (3181 points, 146th place) as team `404BrainNotFound`.
 
-Below is every challenge I solved. The linked ones have full writeups; the rest are still being written up.
+Below is every challenge I solved. Writeups are in the category folders, going up as I work through them.
 
 ## Crypto
 
-- [Heads will Roll](crypto/heads-will-roll.md) rail fence cipher
-- [Numerophobia](crypto/numerophobia.md) ASCII with an alternating shift, then reversed
-- [I Feel Like Someone's Watching Me](crypto/i-feel-like-someones-watching-me.md) monoalphabetic substitution
-- Cyberphobia: SpOoKy KeYsTrEaMs (writeup coming)
-- No Nonsense on this Server (writeup coming)
-- Klediophobia (writeup coming)
-- There is no good name for the fear of math (writeup coming)
+- Heads will Roll rail fence cipher
+- Numerophobia ASCII with an alternating shift, then reversed
+- I Feel Like Someone's Watching Me monoalphabetic substitution
+- Cyberphobia: SpOoKy KeYsTrEaMs
+- No Nonsense on this Server
+- Klediophobia
+- There is no good name for the fear of math
 
 ## Forensics
 
-- [The Haunted Portrait](forensics/the-haunted-portrait.md) LSB bit-plane steg, then ROT13
-- [Arachnophobia](forensics/arachnophobia.md) a ZIP hidden after the PNG's end marker
-- [Tormented Tanny](forensics/tormented-tanny.md) flag split across image metadata fields
+- The Haunted Portrait LSB bit-plane steg, then ROT13
+- Arachnophobia a ZIP hidden after the PNG's end marker
+- Tormented Tanny flag split across image metadata fields
 
 ## Binary / reversing (binrev)
 
-- [Cyberphobia: Overflowed Bits](pwn/cyberphobia-overflowed-bits.md) buffer overflow into a function pointer
-- [Too Much Love is Scary](pwn/too-much-love-is-scary.md) out-of-bounds write
-- Frankenstein's Password Generator (writeup coming)
-- Cyberphobia: Formatting Nightmare (writeup coming)
-- Trypophobia (writeup coming)
-- Elves can be Spooky Too (writeup coming)
+- Cyberphobia: Overflowed Bits buffer overflow into a function pointer
+- Too Much Love is Scary out-of-bounds write
+- Frankenstein's Password Generator
+- Cyberphobia: Formatting Nightmare
+- Trypophobia
+- Elves can be Spooky Too
 
 ## Web
 
-- J*b Application (writeup coming) prompt injection against an "AI" screener
-- Hemophobia (writeup coming)
+- J*b Application prompt injection against an "AI" screener
+- Hemophobia
 
 ## Misc
 
-- Xenoglossophobia (writeup coming)
-- Demented Memories (writeup coming)
+- Xenoglossophobia
+- Demented Memories
 
 ## OSINT
 
-- [Nosocomephobia](osint/nosocomephobia.md) Morse from audio, reverse image search, then archive digging
+- Nosocomephobia Morse from audio, reverse image search, then archive digging
 
 ## Notes
 
