@@ -50,9 +50,7 @@ The binary is 64-bit, so the address is 8 bytes and goes in little-endian order.
 
 ## Flag
 
-```
-spooky{REPLACE_WITH_YOUR_FLAG}
-```
+Solved during the event. I didn't save the exact flag string, so it's not reproduced here. The technique above is the point.
 
 ## Takeaway
 

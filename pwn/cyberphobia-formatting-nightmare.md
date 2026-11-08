@@ -24,13 +24,7 @@ Since `secret` is the first argument after the format string, I just ask `printf
 %1$s
 ```
 
-The service printed the secret back: `f0rm4tStr1ngVulN3r4b1lityIsSc4rY`. The challenge says to wrap the answer in `spooky{}`.
-
-## Flag
-
-```
-spooky{f0rm4tStr1ngVulN3r4b1lityIsSc4rY}
-```
+Sending `%1$s` prints the secret, which the challenge says to wrap in `spooky{}`. I recovered `f0rm4tStr1ngVulN3r4b1lityIsSc4rY` this way, giving `spooky{f0rm4tStr1ngVulN3r4b1lityIsSc4rY}`, though I didn't keep a record of the accepted submission.
 
 ## Takeaway
 

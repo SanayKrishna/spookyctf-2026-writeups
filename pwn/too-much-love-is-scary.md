@@ -25,9 +25,7 @@ I opened `main` in Ghidra to see exactly how the two integers get used: how the 
 
 ## Flag
 
-```
-spooky{REPLACE_WITH_YOUR_FLAG}
-```
+Solved during the event. I didn't save the exact flag string, so it's not reproduced here. The technique above is the point.
 
 ## Takeaway
 
